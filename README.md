@@ -13,3 +13,4 @@ workflow was as follows:
 7. used the model to classify the reviews (including "neutral" reviews)
 8. conducted further analysis and made visualizations to present insights from the data
 
+All code and results can be seen in the jupyter notebook
